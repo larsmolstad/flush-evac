@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Evac-fill
+Comment='run the evacuation system'
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=sudo idle -c "execfile('start.py')"
+Type=Application
+Encoding=UTF-8
+Terminal=False
+Categories=None
